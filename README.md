@@ -13,7 +13,7 @@ All components must be in the same HTML file.
 
 The content in the `<style>` tag is just used to make the template responsive.
 
-To ensure each `<tag>` have the right design, the `style:"..."` was inserted directly into HTML. therwise some email providers change the design to default.
+To ensure each `<tag>` have the right design, the `style:"..."` was inserted directly into HTML. Otherwise some email providers change the design to default.
 
 ---
 ### HTML
