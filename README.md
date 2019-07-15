@@ -23,3 +23,5 @@ To ensure each `<tag>` have the right design, the `style:"..."` was inserted dir
 
 ---
 ### Screenshots
+
+![HTML Screenshot (1)](assets/screenshots(1).png)
