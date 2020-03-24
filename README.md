@@ -11,9 +11,8 @@ All components must be in the same HTML file.
 ---
 ### CSS
 
-The content in the `<style>` tag is just used to make the template responsive.
-
-To ensure each `<tag>` have the right design, the `style:"..."` was inserted directly into HTML. Otherwise some email providers change the design to default.
+``` HTML
+```
 
 ---
 ### HTML
@@ -23,5 +22,8 @@ To ensure each `<tag>` have the right design, the `style:"..."` was inserted dir
 
 ---
 ### Screenshots
+newsletter-1
+![HTML Mailletter 1](screenshots/screenshot-1.jpg)
 
-![HTML Screenshot (1)](assets/screenshots(1).png)
+newsletter-2
+![HTML Mailletter 2](screenshots/screenshot-2.jpg)
