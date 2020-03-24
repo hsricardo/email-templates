@@ -1,4 +1,4 @@
-# Email-Templates
+# Email Templates
 
 This repository contains  multiple **Responsive HTML Email Templates**.
 
